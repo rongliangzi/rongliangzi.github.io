@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ------
+
 Education
 ------
 * B.S. in Automation, Tsinghua University, 2017
