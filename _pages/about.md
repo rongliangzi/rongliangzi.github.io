@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+------
 Education
-======
+------
 * B.S. in Automation, Tsinghua University, 2017
 * M.S. in School of Software, Tsinghua University, 2020
 * Ph.D in ?, GitHub University, 2030 (expected)
